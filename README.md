@@ -10,27 +10,18 @@
 
 ### Connect with me 😀
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-
-[1.1]: https://www.flaticon.com/svg/static/icons/svg/733/733579.svg "twitter icon"
-[2.1]: https://www.flaticon.com/svg/static/icons/svg/174/174848.svg "facebook icon"
-[3.1]: https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg "instagram icon"
-[4.1]: https://www.flaticon.com/svg/static/icons/svg/174/174857.svg "linkedin icon"
-[5.1]: https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg "github icon"
-[1]: https://twitter.com/Ekritshrestha
-[2]: https://www.facebook.com/ekrit.shrestha
-[3]: https://www.instagram.com/ekritstha/
-[4]: https://www.linkedin.com/in/akrit-shrestha-769427171/
-[5]: https://github.com/ekritstha
-
-<style>
-img{
-  width:28px;
-  height:28px;
-  padding: 3px;
-}
-</style>
+<a href="https://twitter.com/Ekritshrestha">
+  <img align="left" alt="Akrit Shrestha Twitter" width="21px" src="https://raw.githubusercontent.com/adityakamath16/adityakamath16/master/images/connect_with_me_images/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/akrit-shrestha-769427171/">
+  <img align="left" alt="Akrit Shrestha Linkedin" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+</a>
+<a href="https://www.instagram.com/ekritstha/">
+  <img align="left" alt="Akrit Shrestha Instagram" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />
+</a>
+<a href="https://www.facebook.com/ekrit.shrestha">
+  <img align="left" alt="Akrit Shrestha Facebook" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/174/174848.svg" />
+</a>
+<a href="https://github.com/ekritstha">
+  <img align="left" alt="Akrit Shrestha Github" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg" />
+</a>
