@@ -17,7 +17,7 @@
   <img align="left" alt="Akrit Shrestha Linkedin" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://www.instagram.com/ekritstha/">
-  <img align="left" alt="Akrit Shrestha Instagram" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" />
+  <img align="left" alt="Akrit Shrestha Instagram" width="21px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
 </a>
 <a href="https://www.facebook.com/ekrit.shrestha">
   <img align="left" alt="Akrit Shrestha Facebook" width="21px" src="https://image.flaticon.com/icons/png/512/733/733547.png" />
